@@ -64,7 +64,7 @@ Although we don’t send data to scripter (e.g. for form fill) on the ui yet, th
 ### Demo
 See Agent Copilot in action in the demo below:
 
-<video src="demo.mp4" controls></video>
+<video src="https://developer-content.genesys.cloud/blog/2024-12-02-agent-copilot/demo.mp4" controls></video>
 
 ## Additional resources 
 1. [API Explorer](/devapps/api-explorer-standalone)
